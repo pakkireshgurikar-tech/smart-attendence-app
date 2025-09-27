@@ -1,0 +1,7 @@
+{
+  "name": "Smart Curriculum & Attendance",
+  "description": "An AI-powered application to automate attendance tracking and provide personalized learning activities for students during their free periods, enhancing productivity and aligning with long-term goals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
